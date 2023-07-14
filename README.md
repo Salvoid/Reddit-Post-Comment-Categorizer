@@ -11,7 +11,7 @@
 
 ### Folders:
 #### OriginalCode
--Contains the original source code of both the gui and batch verification versions.
+-Contains the original source code of both the gui version and the Normalized Pointwise Mutual Information (NPMI) Topic Coherence Measure Evaluation.
 #### ExecutableCode
 -Contains the source code for the gui and the packaged gui version.
 #### Executable
